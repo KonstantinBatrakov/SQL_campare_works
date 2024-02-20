@@ -36,17 +36,9 @@
 19. Подсчет загруженности каждого рейса: Определяется количество пассажиров на каждом рейсе, отсортированное по убыванию загруженности.
 
 Для решения задач были использованы функции: 
-Выборка данных:
-SELECT, FROM, WHERE, JOIN, LEFT JOIN, GROUP BY, DISTINCT, AS, DATE()
 
-Агрегатные функции:
-COUNT(), MAX()
-
-Фильтрация данных:
-LIKE, HAVING, BETWEEN
-
-Сортировка данных:
-ORDER BY
-
-Преобразование данных:
-SEC_TO_TIME(), CHAR_LENGTH(), TIMESTAMPDIFF()
+Выборка данных: SELECT, FROM, WHERE, JOIN, LEFT JOIN, GROUP BY, DISTINCT, AS, DATE()
+Агрегатные функции: COUNT(), MAX()
+Фильтрация данных: LIKE, HAVING, BETWEEN
+Сортировка данных: ORDER BY
+Преобразование данных: SEC_TO_TIME(), CHAR_LENGTH(), TIMESTAMPDIFF()
